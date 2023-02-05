@@ -34,6 +34,7 @@ body {
   background-position: center top;
   background-size: cover; */
   background: var(--bg-url) no-repeat center top/cover;
+  height: 100vh;
 }
 body * {
   font-family: "Inter", sans-serif;
