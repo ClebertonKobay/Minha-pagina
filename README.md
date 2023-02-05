@@ -2,7 +2,7 @@
 
 <p align="center">Minha página com links para os meus trabalhos e as minhas redes sociais</p>
 </br>
-Este projeto foi desenvolvido usando:
+Este projeto foi desenvolvido usando:</br>
 -HTML</br>
 -CSS</br>
 -JavaScript</br>
